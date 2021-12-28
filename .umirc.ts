@@ -9,5 +9,5 @@ export default defineConfig({
   alias: {
     'react-vant': 'react-vant/2x',
   },
-  // mfsu: {},
+  mfsu: {},
 });
